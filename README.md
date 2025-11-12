@@ -14,8 +14,7 @@
 _I'm a Unity Game Developer with 3+ years experience developing cross platform games for the web, desktop and mobile._ 
 
 * 🐻 I live in Saint Petersburg, Russia
-* 🔭 I'm currently looking for a dream job
-* 🎲 I’m currently working on coffee shop simulator game
+* 🔭 I’m currently working on my dream game
 * 💻 I mostly use C# with Unity
 * 📫 How to reach me: feel free to message me on [Telegram](https://t.me/LunePurple)
 
@@ -66,33 +65,14 @@ I have/know:
 # ✍ My Projects
 
 ## 🎮 Coffee Shop Simulator
-### Project Status: ✔ in work
+### Project Status: 🕐 in work
 
 <p align="center">
-   <img src="https://github.com/user-attachments/assets/ab2010c5-dc4b-4234-ac4b-af9c3e1691a6" width="500"></a>
-   <img src="https://github.com/user-attachments/assets/a06960e6-ce1b-48af-b99f-04e7011db1b8" width="500"></a>
-   <img src="https://github.com/user-attachments/assets/c1fe4f72-7781-4e54-a029-3e26db018af0" width="500"></a>
-   <img src="https://github.com/user-attachments/assets/dc6a2300-a459-43e4-950d-c5b933084540" width="500"></a>
 </p>
 
-
-## 🎮 KitchenChaos
-### Project Status: ✖️ archieved
-
-Overcooked-like game.
-
-<p align="center">
- <img src="https://github.com/HeatherPurple/HeatherPurple/assets/62564571/bdf98010-ecff-41d5-aaa7-99e49838d1c1" width="600"></a>
-</p>
-
-
-## 🎮 CatanOnline
-### Project Status: 🕐 on hold
-
-Online catan-like board game
 
 ## 🎮 [Сражение за сырную святыню. История старой мыши](https://favir0.itch.io/sk2007)
-### Project Status: 🕐 on hold
+### Project Status: ✔ released
 
 Игра в жанре Tower Defence (TD), созданная во время Siberian GameJam November 2023.
 
@@ -168,7 +148,7 @@ Online catan-like board game
 
 
 ## 🎮 Slime's Castle
-### Project Status: ✖️ archieved
+### Project Status: ✔ released
 
 <img src="https://github.com/S1lentSt0rm/Slime-s-Castle/assets/62564571/d3e6d9a0-3970-467f-9612-28c569a90adc" width="500"></a>
 
